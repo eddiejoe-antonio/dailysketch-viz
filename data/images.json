@@ -1,252 +1,457 @@
 [
     {
         "id": 0,
-        "date": 20,
-        "image": "0.jpg"
+        "date": 2202020,
+        "title": "Gloria Cortina Garden",
+        "image": "0.jpg",
+        "colors": [
+            "Blue",
+            "Pink"
+        ]
     },
     {
         "id": 1,
-        "date": 20,
-        "image": "1.jpg"
+        "date": 12262022,
+        "title": "Brooklyn Bridge Park",
+        "image": "1.jpg",
+        "colors": [
+            "Blue"
+        ]
     },
     {
         "id": 2,
-        "date": 20,
-        "image": "2.jpg"
+        "date": 12242022,
+        "title": "8th Avenue Barber",
+        "image": "2.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 3,
-        "date": 20,
-        "image": "3.jpg"
+        "date": 12202022,
+        "title": "Borough Hall",
+        "image": "3.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 4,
-        "date": 20,
-        "image": "4.jpg"
+        "date": 12232022,
+        "title": "Montreal Icicles",
+        "image": "4.jpg",
+        "colors":[
+            "Brown"
+        ] 
     },
     {
         "id": 5,
-        "date": 20,
-        "image": "5.jpg"
+        "date": 12162022,
+        "title": "8th Avenue Fish Store",
+        "image": "5.jpg",
+        "colors":[
+            "Blue"
+        ]
     },
     {
         "id": 6,
-        "date": 20,
-        "image": "6.jpg"
+        "date": 12172022,
+        "title": "Second Floor Balcony",
+        "image": "6.jpg",
+        "colors": [
+            "Brown"
+        ]
     },
     {
         "id": 7,
-        "date": 20,
-        "image": "7.jpg"
+        "date": 1222022,
+        "title": "Morningside Park",
+        "image": "7.jpg",
+        "colors": [
+            "Blue"
+        ]
     },
     {
         "id": 8,
-        "date": 20,
-        "image": "8.jpg"
+        "date": 8032021,
+        "title": "Backyard Bbq",
+        "image": "8.jpg",
+        "colors": [
+            "Purple"
+        ]
     },
     {
         "id": 9,
-        "date": 20,
-        "image": "9.jpg"
+        "date": 11302022,
+        "title": "St. Paul's Chapel",
+        "image": "9.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 10,
-        "date": 20,
-        "image": "10.jpg"
+        "date": 11242022,
+        "title": "Industry City",
+        "image": "10.jpg",
+        "colors": [
+            "Green"
+        ]
     },
     {
         "id": 11,
-        "date": 20,
-        "image": "11.jpg"
+        "date": 5102020,
+        "title": "Belle Harbor",
+        "image": "11.jpg",
+        "colors": [
+            "Yellow"
+        ]
     },
     {
         "id": 12,
-        "date": 20,
-        "image": "12.jpg"
+        "title": "9th Ave Subway Entrance",
+        "date": 11162022,
+        "image": "12.jpg",
+        "colors": [
+            "Green",
+            "Brown"
+        ]
     },
     {
         "id": 13,
-        "date": 20,
-        "image": "13.jpg"
+        "title": "The Lot Radio",
+        "date": 11232022,
+        "image": "13.jpg",
+        "colors": [
+            "Blue"
+        ]
     },
     {
         "id": 14,
-        "date": 20,
-        "image": "14.jpg"
+        "title": "King of Fish Jam",
+        "date": 11072022,
+        "image": "14.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 15,
-        "date": 20,
-        "image": "15.jpg"
+        "title": "Yunan Flavor Garden",
+        "date": 11142022,
+        "image": "15.jpg",
+        "colors": [
+            "Purple"
+        ]
     },
     {
         "id": 16,
-        "date": 20,
-        "image": "16.jpg"
+        "title": "Carroll Park Bocce Court",
+        "date": 8202020,
+        "image": "16.jpg",
+        "colors": [
+            "Purple"
+        ]
     },
     {
         "id": 17,
-        "date": 20,
-        "image": "17.jpg"
+        "title": "Industry City Courtyard",
+        "date": 10092022,
+        "image": "17.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 18,
-        "date": 20,
-        "image": "18.jpg"
+        "title": "Terrace View",
+        "date": 3202021,
+        "image": "18.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 19,
-        "date": 20,
-        "image": "19.jpg"
+        "title": "Basement Sofa",
+        "date": 1202021,
+        "image": "19.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 20,
-        "date": 20,
-        "image": "20.jpg"
+        "title": "Hamilton Avenue",
+        "date": 5302021,
+        "image": "20.jpg",
+        "colors":[
+            "Pink"
+        ]
     },
     {
         "id": 21,
-        "date": 20,
-        "image": "21.jpg"
+        "title": "Basement Office",
+        "date": 12202020,
+        "image": "21.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 22,
-        "date": 20,
-        "image": "22.jpg"
+        "title": "Harman Street",
+        "date": 10032020,
+        "image": "22.jpg",
+        "colors": [
+            "Yellow"
+        ]
     },
     {
         "id": 23,
-        "date": 20,
-        "image": "23.jpg"
+        "title": "Brooklyn Promenade",
+        "date": 4012020,
+        "image": "23.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 24,
-        "date": 20,
-        "image": "24.jpg"
+        "title": "Fruit Market",
+        "date": 2172021,
+        "image": "24.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 25,
-        "date": 20,
-        "image": "25.jpg"
+        "title": "Van Brunt Street",
+        "date": 8102020,
+        "image": "25.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 26,
-        "date": 20,
-        "image": "26.jpg"
+        "title": "121 Garfield Place",
+        "date": 6202020,
+        "image": "26.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 27,
-        "date": 20,
-        "image": "27.jpg"
+        "title": "125th St Subway",
+        "date": 12082022,
+        "image": "27.jpg",
+        "colors":[
+            "Pink"
+        ]
     },
     {
         "id": 28,
-        "date": 20,
-        "image": "28.jpg"
+        "title": "9th Ave and New Utrecht",
+        "date": 7102021,
+        "image": "28.jpg",
+        "colors":[
+            "Blue"
+        ]
     },
     {
         "id": 29,
-        "date": 20,
-        "image": "29.jpg"
+        "title": "10th Ave and New Utrecht",
+        "date": 5052021,
+        "image": "29.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 30,
-        "date": 20,
-        "image": "30.jpg"
+        "title": "Belt Parkway",
+        "date": 6102020,
+        "image": "30.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 31,
-        "date": 20,
-        "image": "31.jpg"
+        "title": "Clinton Street Kitchen",
+        "date": 9202020,
+        "image": "31.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 32,
-        "date": 20,
-        "image": "32.jpg"
+        "title": "W 4th Street",
+        "date": 1102020,
+        "image": "32.jpg",
+        "colors":[
+            "Pink",
+            "Yellow"
+        ]
     },
     {
         "id": 33,
-        "date": 20,
-        "image": "33.jpg"
+        "title": "Avenida Chapultepec",
+        "date": 1292020,
+        "image": "33.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 34,
-        "date": 20,
-        "image": "34.jpg"
+        "title":"La Reforma",
+        "date": 2012020,
+        "image": "34.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 35,
-        "date": 20,
-        "image": "35.jpg"
+        "title": "Teotihuacán",
+        "date": 2202022,
+        "image": "35.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 36,
-        "date": 20,
-        "image": "36.jpg"
+        "title": "Roma Sur",
+        "date": 1302020,
+        "image": "36.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 37,
-        "date": 20,
-        "image": "37.jpg"
+        "title": "Museo de Antropología",
+        "date": 3102020,
+        "image": "37.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 38,
-        "date": 20,
-        "image": "38.jpg"
+        "title": "Bubba's Night",
+        "date": 4142020,
+        "image": "38.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 39,
-        "date": 20,
-        "image": "39.jpg"
+        "title": "Mother and Son",
+        "date": 4152020,
+        "image": "39.jpg",
+        "colors": [
+            "Black"
+        ]
     },
     {
         "id": 40,
-        "date": 20,
-        "image": "40.jpg"
+        "title": "Prospect Park",
+        "date": 7012021,
+        "image": "40.jpg",
+        "colors":[
+            "Blue",
+            "Red"
+        ]
     },
     {
         "id": 41,
-        "date": 20,
-        "image": "41.jpg"
+        "title": "Kimbell Art Museum",
+        "date": 1072020,
+        "image": "41.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 42,
-        "date": 20,
-        "image": "42.jpg"
+        "title": "Nissequogue State Park",
+        "date": 10152021,
+        "image": "42.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 43,
-        "date": 20,
-        "image": "43.jpg"
+        "title": "Casa Prieto Lopéz",
+        "date": 1122020,
+        "image": "43.jpg",
+        "colors":[
+            "Green"
+        ]
     },
     {
         "id": 44,
-        "date": 20,
-        "image": "44.jpg"
+        "title": "Nevería Roxy",
+        "date": 1142020,
+        "image": "44.jpg",
+        "colors":[
+            "Brown"
+        ]
     },
     {
         "id": 45,
-        "date": 20,
-        "image": "45.jpg"
+        "title": "Ceiba Tiny House",
+        "date": 1022023,
+        "image": "45.jpg",
+        "colors":[
+            "Green"
+        ]
     },
     {
         "id": 46,
-        "date": 20,
-        "image": "46.jpg"
+        "title": "Sunset Park",
+        "date": 8202021,
+        "image": "46.jpg",
+        "colors":[
+            "Red"
+        ]
     },
     {
         "id": 47,
-        "date": 20,
-        "image": "47.jpg"
+        "title": "Ft. Hamilton Parkway",
+        "date": 1132023,
+        "image": "47.jpg",
+        "colors":[
+            "Black"
+        ]
     },
     {
         "id": 48,
-        "date": 20,
-        "image": "48.jpg"
+        "title": "Whole Turkey",
+        "date": 11252022,
+        "image": "48.jpg",
+        "colors":[
+            "Brown",
+            "Green"
+        ]
     },
     {
         "id": 49,
-        "date": 20,
-        "image": "49.jpg"
+        "title": "Christopher St PATH",
+        "date": 1052020,
+        "image": "49.jpg",
+        "colors":[
+            "Black"
+        ]
     }
 ]
