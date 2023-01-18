@@ -14,14 +14,14 @@
     <h1>Sketches</h1>
     <div id="myBtnContainer">
       <button class="btn active" onclick="filterSelection('all')">All</button>
-      <button class="btn" onclick="filterSelection('blue')">Blue</button>
-      <button class="btn" onclick="filterSelection('pink')">Pink</button>
-      <button class="btn" onclick="filterSelection('black')">Black</button>
-      <button class="btn" onclick="filterSelection('brown')">Brown</button>
-      <button class="btn" onclick="filterSelection('purple')">Purple</button>
-      <button class="btn" onclick="filterSelection('green')">Green</button>
-      <button class="btn" onclick="filterSelection('yellow')">Yellow</button>
-      <button class="btn" onclick="filterSelection('red')">Red</button>
+      <button class="btn" id="btn__red" onclick="filterSelection('red')">Red</button>
+      <button class="btn" id="btn__green" onclick="filterSelection('green')">Green</button>
+      <button class="btn" id="btn__blue" onclick="filterSelection('blue')">Blue</button>
+      <button class="btn" id="btn__brown" onclick="filterSelection('brown')">Brown</button>
+      <button class="btn" id="btn__pink" onclick="filterSelection('pink')">Pink</button>
+      <button class="btn" id="btn__black" onclick="filterSelection('black')">Black</button>
+      <button class="btn" id="btn__purple" onclick="filterSelection('purple')">Purple</button>
+      <button class="btn" id="btn__yellow" onclick="filterSelection('yellow')">Yellow</button>
 
 
     </div>
@@ -35,11 +35,11 @@
           <p class="subtitle">February 2, 2020</p>
         </div>
       </div>
-      <div class="column blue">
+      <div class="column black">
         <div class="content">
           <img src="./visuals/1.jpg" style="width:100%">
-          <p>Brooklyn Bridge Park</p>
-          <p class="subtitle">December 26, 2022</p>
+          <p>Brooklyn Promenade</p>
+          <p class="subtitle">April 1, 2020</p>
         </div>
       </div>
       <div class="column green">
@@ -59,8 +59,8 @@
       <div class="column black">
         <div class="content">
           <img src="./visuals/2.jpg" style="width:100%">
-          <p>8th Avenue Barber</p>
-          <p class="subtitle">December 24, 2022</p>
+          <p>Fruit Market</p>
+          <p class="subtitle">February 17, 2021</p>
         </div>
       </div>
       <div class="column black">
@@ -70,11 +70,11 @@
           <p class="subtitle">December 20, 2022</p>
         </div>
       </div>
-      <div class="column brown">
+      <div class="column green, brown">
         <div class="content">
           <img src="./visuals/4.jpg" style="width:100%">
-          <p>Montreal Icicles</p>
-          <p class="subtitle">December 23, 2022</p>
+          <p>Ninth Ave Subway Entrance</p>
+          <p class="subtitle">November 16, 2022</p>
         </div>
       </div>
       <div class="column brown">
@@ -91,6 +91,7 @@
           <p class="subtitle">December 20, 2022</p>
         </div>
       </div>
+      <!-- UNDER REVIEW
       <div class="column purple">
         <div class="content">
           <img src="./visuals/8.jpg" style="width:100%">
@@ -98,6 +99,7 @@
           <p class="subtitle">August 3, 2021</p>
         </div>
       </div>
+      -->
       <div class="column black">
         <div class="content">
           <img src="./visuals/9.jpg" style="width:100%">
@@ -105,6 +107,7 @@
           <p class="subtitle">November 30, 2022</p>
         </div>
       </div>
+      <!-- UNDER REVIEW
       <div class="column yellow">
         <div class="content">
           <img src="./visuals/11.jpg" style="width:100%">
@@ -112,11 +115,12 @@
           <p class="subtitle">May 10, 2020</p>
         </div>
       </div>
-      <div class="column green, brown">
+      -->
+      <div class="column brown">
         <div class="content">
           <img src="./visuals/12.jpg" style="width:100%">
-          <p>Ninth Ave Subway Entrance</p>
-          <p class="subtitle">November 16, 2022</p>
+          <p>Montreal Icicles</p>
+          <p class="subtitle">December 23, 2022</p>
         </div>
       </div>
       <div class="column blue">
@@ -189,18 +193,18 @@
           <p class="subtitle">October 3, 2020</p>
         </div>
       </div>
-      <div class="column black">
+      <div class="column blue">
         <div class="content">
           <img src="./visuals/23.jpg" style="width:100%">
-          <p>Brooklyn Promenade</p>
-          <p class="subtitle">April 1, 2020</p>
+          <p>Brooklyn Bridge Park</p>
+          <p class="subtitle">December 25, 2022</p>
         </div>
       </div>
       <div class="column black">
         <div class="content">
           <img src="./visuals/24.jpg" style="width:100%">
-          <p>Fruit Market</p>
-          <p class="subtitle">February 17, 2021</p>
+          <p>Eighth Ave Barber</p>
+          <p class="subtitle">December 24, 2022</p>
         </div>
       </div>
       <div class="column black">
@@ -348,6 +352,34 @@
           <img src="./visuals/45.jpg" style="width:100%">
           <p>Ceiba Tiny House</p>
           <p class="subtitle">January 2, 2023</p>
+        </div>
+      </div>
+      <div class="column red">
+        <div class="content">
+          <img src="./visuals/46.jpg" style="width:100%">
+          <p>Sunset Park</p>
+          <p class="subtitle">August 20, 2021</p>
+        </div>
+      </div>
+      <div class="column black">
+        <div class="content">
+          <img src="./visuals/47.jpg" style="width:100%">
+          <p>Ft. Hamilton Parkway</p>
+          <p class="subtitle">January 13, 2023</p>
+        </div>
+      </div>
+      <div class="column brown, green">
+        <div class="content">
+          <img src="./visuals/48.jpg" style="width:100%">
+          <p>Whole Turkey</p>
+          <p class="subtitle">November 25, 2022</p>
+        </div>
+      </div>
+      <div class="column black">
+        <div class="content">
+          <img src="./visuals/49.jpg" style="width:100%">
+          <p>Christopher St PATH</p>
+          <p class="subtitle">October 5, 2020</p>
         </div>
       </div>
     <!-- END GRID -->

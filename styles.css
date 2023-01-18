@@ -92,8 +92,9 @@ p {
 
 /* Add a grey background color on mouse-over */
 .btn:hover {
-    background-color: red;
-    transition-duration: .5s;
+    background-color: grey;
+    color: grey;
+    transition-duration: .25s;
 }
 
 header {
@@ -107,13 +108,65 @@ a {
     color: #333;
   }
   
-  a:visited {
+a:visited {
     text-decoration: none;
     color: #333;
   }
   
-  a:hover {
-    transform: translateY(4px);
-    transition-duration: .25s;
-    color: red;
-  }
+/* BUTTON Colors*/
+
+#btn__blue:hover {
+    background-color: #0e3aff;
+    color:  #0e3aff;
+}
+
+#btn__pink:hover {
+    background-color: #e20985;
+    color: #e20985;
+}
+
+#btn__black:hover {
+    background-color: #000;
+    color: #000;
+}
+
+#btn__brown:hover {
+    background-color: #5f1f00;
+    color: #5f1f00;
+}
+
+#btn__purple:hover {
+    background-color: #840188;
+    color: #840188;
+}
+
+#btn__green:hover {
+    background-color: #009000;
+    color: #009000;
+}
+
+#btn__yellow:hover {
+    background-color: #ffff12;
+    color: #ffff12;
+}
+
+#btn__red:hover {
+    background-color: #c00;
+    color: #c00;
+}
+
+
+
+
+
+/*
+    COLORS
+    Blue: 0e3aff
+    Pink: e20985
+    Black: 000
+    Brown: 5f1f00
+    Purple: 840188
+    Green: 009000
+    Yellow: ffff12
+    Red: c00
+*/

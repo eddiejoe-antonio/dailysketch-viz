@@ -11,17 +11,17 @@
     },
     {
         "id": 1,
-        "date": 12262022,
-        "title": "Brooklyn Bridge Park",
+        "title": "Brooklyn Promenade",
+        "date": 4012020,
         "image": "1.jpg",
         "colors": [
-            "Blue"
+            "Black"
         ]
     },
     {
         "id": 2,
-        "date": 12242022,
-        "title": "8th Avenue Barber",
+        "title": "Fruit Market",
+        "date": 2172021,
         "image": "2.jpg",
         "colors": [
             "Black"
@@ -38,12 +38,13 @@
     },
     {
         "id": 4,
-        "date": 12232022,
-        "title": "Montreal Icicles",
+        "title": "9th Ave Subway Entrance",
+        "date": 11162022,
         "image": "4.jpg",
-        "colors":[
+        "colors": [
+            "Green",
             "Brown"
-        ] 
+        ]
     },
     {
         "id": 5,
@@ -110,13 +111,12 @@
     },
     {
         "id": 12,
-        "title": "9th Ave Subway Entrance",
-        "date": 11162022,
+        "date": 12232022,
+        "title": "Montreal Icicles",
         "image": "12.jpg",
-        "colors": [
-            "Green",
+        "colors":[
             "Brown"
-        ]
+        ] 
     },
     {
         "id": 13,
@@ -210,17 +210,17 @@
     },
     {
         "id": 23,
-        "title": "Brooklyn Promenade",
-        "date": 4012020,
+        "date": 12252022,
+        "title": "Brooklyn Bridge Park",
         "image": "23.jpg",
         "colors": [
-            "Black"
+            "Blue"
         ]
     },
     {
         "id": 24,
-        "title": "Fruit Market",
-        "date": 2172021,
+        "date": 12242022,
+        "title": "8th Avenue Barber",
         "image": "24.jpg",
         "colors": [
             "Black"
