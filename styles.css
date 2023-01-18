@@ -34,7 +34,7 @@ p {
 
 #myBtnContainer {
     margin-left: 40%;
-    margin-top: -4%;
+    margin-top: -4.5%;
 }
 
 .subtitle {
@@ -46,6 +46,7 @@ p {
 
 .row {
     margin: 8px -16px;
+    margin-top: -7.5%;
 }
 
 /* Add padding BETWEEN each column (if you want) */
@@ -57,7 +58,7 @@ p {
 /* Create three equal columns that floats next to each other */
 .column {
     float: left;
-    width: 33.33%;
+    width: 50%;
     display: none; /* Hide columns by default */
 }
 
@@ -92,11 +93,13 @@ p {
 /* Add a grey background color on mouse-over */
 .btn:hover {
     background-color: red;
+    transition-duration: .5s;
 }
 
 header {
     position: fixed;
-    margin-bottom: 10%;
+    font-weight: bolder;
+    margin-left: 95%;
 }
 
 a {
@@ -112,4 +115,5 @@ a {
   a:hover {
     transform: translateY(4px);
     transition-duration: .25s;
+    color: red;
   }
