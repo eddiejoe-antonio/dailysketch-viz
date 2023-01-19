@@ -34,6 +34,16 @@ p {
     line-height: .1vh;
 }
 
+.intro__text {
+    flex-direction: column;
+    font-size: 2.5vw;
+    margin-left: 15%;
+    max-width: 50%;
+    margin-top: 20%;
+    line-height: 5vh;
+
+}
+
 .subtitle {
     margin-top: 0%;
     text-transform: uppercase;
@@ -93,7 +103,7 @@ header {
 }
 
 a {
-    margin-left: 95%;
+    margin-left: 92%;
     text-decoration: none;
     color: #333;
   }
