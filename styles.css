@@ -98,12 +98,16 @@ p {
 }
 
 header {
+    width: 100%;
     position: fixed;
+    background: white;
+    padding: 15px 0;
     font-weight: bolder;
-    margin-left: 95%;
+    top: 0;
 }
 
 a {
+    margin-left: 95%;
     text-decoration: none;
     color: #333;
   }
